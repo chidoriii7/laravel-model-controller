@@ -1,1 +1,23 @@
 @import "~bootstrap/scss/bootstrap";
+
+
+ul {
+    list-style: none;
+}
+
+.movie-title {
+    font-size: 30px;
+}
+
+.movie-origin{
+    font-size: 20px;
+}
+
+.movie-date {
+    font-size: 30px;
+}
+
+.movie-vote {
+    font-size: 15px;
+    color: red;
+}
